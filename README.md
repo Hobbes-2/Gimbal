@@ -14,13 +14,13 @@ The bar at the middle can have a model added to it or stay as is to display the 
 BOM
 | Item | Description | Cost (USD) | Link |
 |:---|:---|---:|:---:|
-| Printing Legion | 3D printing | $0.01 | N/A |
+| Printing Legion | 3D printing | $10.00 | N/A |
 | Super Glue | All-purpose liquid glue for bonding 3D-printed parts | $6.00–$8.00 | [Buy on Amazon](https://www.amazon.com/Super-Glue-All-Purpose-Liquid/dp/B0H8P7R5M2) |
 
 ## Total Estimated Cost
 
 | Minimum | Maximum |
 |---:|---:|
-| **$6.01** | **$8.01** |
+| **$16.00** | **$18.00** |
 
 (BOM formatted by AI)
