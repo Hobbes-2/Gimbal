@@ -11,6 +11,12 @@ Overall this project is around 200x200x250mm. It requires some glue to assemble,
 
 The bar at the middle can have a model added to it or stay as is to display the current facing of the axes. 
 
+
+
+<img width="386" height="232" alt="Screenshot_20261018_225343" src="https://github.com/user-attachments/assets/d160f837-bc99-4fe4-9eec-d70921608c30" />
+
+
+
 BOM
 | Item | Description | Cost (USD) | Link |
 |:---|:---|---:|:---:|
